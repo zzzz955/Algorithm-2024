@@ -14,18 +14,6 @@ struct Pos {
 	int x, y, dist, body, eat;
 };
 
-struct cmp {
-	bool operator()(const Pos& left, const Pos& right) const {
-		if (left.dist != right.dist) {
-			return left.dist > right.dist;  // 거리(dist)가 작은 것이 우선
-		}
-		if (left.x != right.x) {
-			return left.x > right.x;  // x가 작은 것이 우선
-		}
-		return left.y > right.y;  // y가 작은 것이 우선
-	}
-};
-
 int bfs(Pos start, vector<vector<int>>& lst) {
     int total_time = 0;
 
