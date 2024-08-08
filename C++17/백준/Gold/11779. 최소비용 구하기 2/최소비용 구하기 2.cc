@@ -8,6 +8,9 @@ using namespace std;
 const int INF = 999999999;
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
     int n, m;
     int paths[1001] = { 0 };
     cin >> n >> m;
