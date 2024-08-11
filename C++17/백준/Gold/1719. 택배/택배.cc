@@ -19,7 +19,7 @@ void init() {
 
 void bfs(int start) {
     vector<int> dist(n + 1, 999999999);
-    vector<vector<int>> path(n + 1);
+    vector<int> path(n + 1, 0);
     priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
     pq.push({ 0, start });
     dist[start] = 0;
@@ -32,7 +32,7 @@ void bfs(int start) {
             int nd = next.first, nn = next.second;
             if (dist[nn] > cd + nd) {
                 dist[nn] = cd + nd;
-                if (path[cn].empty()) path[nn].push_back(nn);
+                if (!path[cn]) path[nn] = nn;
                 else path[nn] = path[cn];
                 pq.push({ dist[nn], nn });
             }
@@ -41,7 +41,7 @@ void bfs(int start) {
 
     for (int i = 1; i <= n; i++) {
         if (i == start) cout << "-" << " ";
-        else cout << path[i][0] << " ";
+        else cout << path[i] << " ";
     }
     cout << "\n";
 }
