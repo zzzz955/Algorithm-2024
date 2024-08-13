@@ -23,6 +23,9 @@ void Union(int a, int b) {
 }
 
 int main() {
+	ios::sync_with_stdio(false);
+	cin.tie(NULL);
+
 	cin >> n;
 
 	vector<tuple<int, int, int>> edges;
