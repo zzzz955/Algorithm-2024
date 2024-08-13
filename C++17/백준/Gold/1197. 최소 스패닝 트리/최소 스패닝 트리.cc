@@ -1,0 +1,47 @@
+#include <iostream>
+#include <vector>
+#include <tuple>
+#include <algorithm>
+
+using namespace std;
+
+int nodes[10001];
+int v, e;
+
+vector<tuple<int, int, int>> lst;
+
+int Find(int a) {
+	if (nodes[a] == a) return a;
+	return nodes[a] = Find(nodes[a]);
+}
+
+void Union(int a, int b) {
+	int rootA = Find(a);
+	int rootB = Find(b);
+	if (rootA == rootB) return;
+	nodes[rootB] = rootA;
+}
+
+int main() {
+	cin >> v >> e;
+
+	vector<tuple<int, int, int>> edges;
+	for (int i = 0; i < e; i++) {
+		int a, b, c; cin >> a >> b >> c;
+		edges.push_back({ c, a, b });
+	}
+	sort(edges.begin(), edges.end());
+
+	for (int i = 1; i <= v; i++) {
+		nodes[i] = i;
+	}
+
+	int sum = 0;
+	for (int i = 0; i < e; i++) {
+		tuple<int, int, int> cur = edges[i];
+		if (Find(get<1>(cur)) == Find(get<2>(cur))) continue;
+		Union(get<1>(cur), get<2>(cur));
+		sum += get<0>(cur);
+	}
+	cout << sum;
+}
