@@ -24,39 +24,27 @@ void input() {
 	}
 }
 
-void bt(int index, int dir, int turn) {
+void bt(int index, int dir) {
 	if (1 < index && !v[index - 1]) {
 		v[index - 1] = 1;
-		int ndir = dir, nturn = turn;
 		if (mag[index - 1][2] != mag[index][6]) {
-			ndir *= -1;
+			bt(index - 1, dir * -1);
 		}
-		else {
-			nturn = 0;
-		}
-		bt(index - 1, ndir, min(turn, nturn));
 	}
 	if (index < 4 && !v[index + 1]) {
 		v[index + 1] = 1;
-		int ndir = dir, nturn = turn;
 		if (mag[index][2] != mag[index + 1][6]) {
-			ndir *= -1;
+			bt(index + 1, dir * -1);
 		}
-		else {
-			nturn = 0;
-		}
-		bt(index + 1, ndir, min(turn, nturn));
 	}
-	if (turn && dir == 1) {
+	if (dir == 1) {
 		mag[index].push_front(mag[index].back());
 		mag[index].pop_back();
 	}
-	else if (turn && dir == -1) {
+	else  {
 		mag[index].push_back(mag[index].front());
 		mag[index].pop_front();
 	}
-	
-	
 }
 
 void solution() {
@@ -64,7 +52,7 @@ void solution() {
 		int a, b; cin >> a >> b;
 		memset(v, 0, sizeof(v));
 		v[a] = 1;
-		bt(a, b, 1);
+		bt(a, b);
 	}
 	for (int i = 1; i <= 4; i++) {
 		ans += mag[i].front() * pow(2, i - 1);
