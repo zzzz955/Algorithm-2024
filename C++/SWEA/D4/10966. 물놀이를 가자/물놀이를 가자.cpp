@@ -48,6 +48,9 @@ void bfs() {
 }
 
 int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
 	cin >> tc;
 	for (int c = 1; c <= tc; c++) {
 		init();
