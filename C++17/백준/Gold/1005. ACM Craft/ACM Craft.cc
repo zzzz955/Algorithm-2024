@@ -7,11 +7,14 @@ using namespace std;
 
 int tc, n, m, dest;
 vector<vector<int>> path;
+vector<int> cnt, sum;
 int times[1001];
 
 void input() {
 	cin >> n >> m;
 	path.assign(n + 1, vector<int>());
+	cnt.assign(n + 1, 0);
+	sum.assign(n + 1, 0);
 	for (int i = 1; i <= n; i++) cin >> times[i];
 	while (m--) {
 		int a, b; cin >> a >> b;
@@ -20,10 +23,7 @@ void input() {
 	cin >> dest;
 }
 
-int solution() {
-	vector<int> cnt(n + 1, 0);
-	vector<int> sum(n + 1, 0);
-	
+int solution() {	
 	for (int i = 1; i <= n; i++) {
 		for (int node : path[i]) cnt[node]++;
 	}
