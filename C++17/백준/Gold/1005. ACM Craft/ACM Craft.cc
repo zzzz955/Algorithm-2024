@@ -6,16 +6,12 @@
 using namespace std;
 
 int tc, n, m, dest;
-vector<int> path[1001];
+vector<vector<int>> path;
 int times[1001];
-
-void init() {
-	memset(times, 0, sizeof(times));
-	for (int i = 1; i < 1001; i++) path[i].clear();
-}
 
 void input() {
 	cin >> n >> m;
+	path.assign(n + 1, vector<int>());
 	for (int i = 1; i <= n; i++) cin >> times[i];
 	while (m--) {
 		int a, b; cin >> a >> b;
@@ -48,7 +44,6 @@ int solution() {
 			if (--cnt[next] == 0) q.push(next);
 		}
 	}
-
 	return sum[dest];
 }
 
@@ -58,7 +53,6 @@ int main() {
 
 	cin >> tc;
 	while (tc--) {
-		init();
 		input();
 		cout << solution() << "\n";
 	}
