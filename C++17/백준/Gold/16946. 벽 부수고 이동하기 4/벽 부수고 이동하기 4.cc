@@ -1,12 +1,11 @@
 #include<iostream>
 #include<queue>
-#include<unordered_map>
 #include<unordered_set>
 
 using namespace std;
 
-unordered_map<int, int> dic;
 vector<string> lst;
+vector<int> group(1);
 int groups[1000][1000] = { 0, };
 int v[1000][1000] = { 0, };
 int dx[] = { 0, 0, 1, -1 };
@@ -24,7 +23,7 @@ int chk(int sx, int sy) {
 		int nx = sx + dx[i], ny = sy + dy[i];
 		if (0 <= nx && nx < n && 0 <= ny && ny < m && lst[nx][ny] != '1' && groups[nx][ny]) keys.insert(groups[nx][ny]);
 	}
-	for (int key : keys) cnt += dic[key];
+	for (int key : keys) cnt += group[key];
 	return cnt;
 }
 
@@ -48,7 +47,7 @@ void floodfill(int sx, int sy, int key) {
 			}
 		}
 	}
-	dic[key] = cnt;
+	group.push_back(cnt);
 }
 
 int main() {
