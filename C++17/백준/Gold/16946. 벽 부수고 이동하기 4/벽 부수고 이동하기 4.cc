@@ -5,7 +5,7 @@
 using namespace std;
 
 vector<string> lst;
-vector<int> group(1);
+int group[1000000];
 int groups[1000][1000] = { 0, };
 int v[1000][1000] = { 0, };
 int dx[] = { 0, 0, 1, -1 };
@@ -47,7 +47,7 @@ void floodfill(int sx, int sy, int key) {
 			}
 		}
 	}
-	group.push_back(cnt);
+	group[key] = cnt;
 }
 
 int main() {
