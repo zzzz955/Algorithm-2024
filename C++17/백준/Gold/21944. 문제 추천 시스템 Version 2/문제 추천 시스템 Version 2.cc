@@ -1,7 +1,5 @@
 #include<iostream>
 #include<set>
-#include<unordered_map>
-#include<algorithm>
 
 using namespace std;
 
@@ -12,7 +10,7 @@ struct Prob {
 };
 Prob probs[100001];
 
-unordered_map<int, set<pair<int, int>>> rec1;
+set<pair<int, int>> rec1[100001];
 set<pair<int, int>> rec2;
 
 int main() {
