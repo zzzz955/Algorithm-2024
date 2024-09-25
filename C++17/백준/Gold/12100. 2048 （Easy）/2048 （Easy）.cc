@@ -1,111 +1,111 @@
 #include<iostream>
 #include<vector>
-#include<queue>
+#include<cmath>
 
 using namespace std;
 
 int n, ans = 0;
 vector<vector<int>> map;
-vector<int> path;
 
-void simulation(vector<vector<int>>& lst, int dir) {
+int simulation(vector<vector<int>>& lst, int dir, int val) {
     if (dir == 0) { // 오른쪽으로 이동
         for (int i = 0; i < n; i++) {
-            queue<int> q;
-            for (int j = n - 1; j >= 0; j--) if (lst[i][j]) q.push(lst[i][j]);
-
-            // 초기화
-            fill(lst[i].begin(), lst[i].end(), 0);
+            int q[20], qidx = 0, qcnt = 0;
+            for (int j = n - 1; j >= 0; j--) if (lst[i][j]) {
+                q[qcnt++] = lst[i][j];
+                lst[i][j] = 0;
+            }
 
             int index = n - 1;
-            while (!q.empty()) {
-                int value = q.front(); q.pop();
-                if (!q.empty() && value == q.front()) { // 합치기
+            while (qidx < qcnt) {
+                int value = q[qidx];
+                if (qidx + 1 < qcnt && value == q[qidx + 1]) { // 합치기
                     lst[i][index--] = value * 2;
-                    q.pop(); // 두 개의 블록을 하나로 합친 후 pop
+                    val = max(val, value * 2);
+                    qidx++;
                 }
-                else {
-                    lst[i][index--] = value;
-                }
+                else lst[i][index--] = value;
+                qidx++;
             }
         }
     }
     else if (dir == 1) { // 왼쪽으로 이동
         for (int i = 0; i < n; i++) {
-            queue<int> q;
-            for (int j = 0; j < n; j++) if (lst[i][j]) q.push(lst[i][j]);
-
-            fill(lst[i].begin(), lst[i].end(), 0);
+            int q[20], qidx = 0, qcnt = 0;
+            for (int j = 0; j < n; j++) if (lst[i][j]) {
+                q[qcnt++] = lst[i][j];
+                lst[i][j] = 0;
+            }
 
             int index = 0;
-            while (!q.empty()) {
-                int value = q.front(); q.pop();
-                if (!q.empty() && value == q.front()) {
+            while (qidx < qcnt) {
+                int value = q[qidx];
+                if (qidx + 1 < qcnt && value == q[qidx + 1]) { // 합치기
                     lst[i][index++] = value * 2;
-                    q.pop();
+                    val = max(val, value * 2);
+                    qidx++;
                 }
-                else {
-                    lst[i][index++] = value;
-                }
+                else lst[i][index++] = value;
+                qidx++;
             }
         }
     }
     else if (dir == 2) { // 아래로 이동
         for (int j = 0; j < n; j++) {
-            queue<int> q;
-            for (int i = n - 1; i >= 0; i--) if (lst[i][j]) q.push(lst[i][j]);
-
-            for (int i = n - 1; i >= 0; i--) lst[i][j] = 0;
+            int q[20], qidx = 0, qcnt = 0;
+            for (int i = n - 1; i >= 0; i--) if (lst[i][j]) {
+                q[qcnt++] = lst[i][j];
+                lst[i][j] = 0;
+            }
 
             int index = n - 1;
-            while (!q.empty()) {
-                int value = q.front(); q.pop();
-                if (!q.empty() && value == q.front()) {
+            while (qidx < qcnt) {
+                int value = q[qidx];
+                if (qidx + 1 < qcnt && value == q[qidx + 1]) { // 합치기
                     lst[index--][j] = value * 2;
-                    q.pop();
+                    val = max(val, value * 2);
+                    qidx++;
                 }
-                else {
-                    lst[index--][j] = value;
-                }
+                else lst[index--][j] = value;
+                qidx++;
             }
         }
     }
     else if (dir == 3) { // 위로 이동
         for (int j = 0; j < n; j++) {
-            queue<int> q;
-            for (int i = 0; i < n; i++) if (lst[i][j]) q.push(lst[i][j]);
-
-            for (int i = 0; i < n; i++) lst[i][j] = 0;
+            int q[20], qidx = 0, qcnt = 0;
+            for (int i = 0; i < n; i++) if (lst[i][j]) {
+                q[qcnt++] = lst[i][j];
+                lst[i][j] = 0;
+            }
 
             int index = 0;
-            while (!q.empty()) {
-                int value = q.front(); q.pop();
-                if (!q.empty() && value == q.front()) {
+            while (qidx < qcnt) {
+                int value = q[qidx];
+                if (qidx + 1 < qcnt && value == q[qidx + 1]) { // 합치기
                     lst[index++][j] = value * 2;
-                    q.pop();
+                    val = max(val, value * 2);
+                    qidx++;
                 }
-                else {
-                    lst[index++][j] = value;
-                }
+                else lst[index++][j] = value;
+                qidx++;
             }
         }
     }
+    return val;
 }
 
 
-void dfs(int level, vector<vector<int>>& map) {
+void dfs(int level, vector<vector<int>>& map, int val) {
     if (level == 5) {
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                ans = max(ans, map[i][j]);
-            }
-        }
+        ans = max(ans, val);
         return;
     }
+    if (val * pow(2, 5 - level) <= ans) return;
     for (int i = 0; i < 4; i++) {
         vector<vector<int>> lst = map;
-        simulation(lst, i);
-        dfs(level + 1, lst);
+        int new_val = simulation(lst, i, val);
+        dfs(level + 1, lst, new_val);
     }
 }
 
@@ -115,9 +115,10 @@ int main() {
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             cin >> map[i][j];
+            ans = max(ans, map[i][j]);
         }
     }
 
-    dfs(0, map);
+    dfs(0, map, ans);
     cout << ans;
 }
