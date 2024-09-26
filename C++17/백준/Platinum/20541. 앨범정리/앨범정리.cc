@@ -1,5 +1,5 @@
 #include<iostream>
-#include<map>
+#include<unordered_map>
 #include<set>
 
 using namespace std;
@@ -11,7 +11,7 @@ struct Data { // 폴더 정보를 저장할 구조체
 	set<string> photos; // 현재 폴더에 존재하는 사진명의 집합
 };
 
-map<string, Data> dic;
+unordered_map<string, Data> dic;
 int del_album = 0, del_photo = 0; // 삭제 정보 저장용
 
 void dfs(string s) { // 폴더 삭제 시 진행할 재귀, 현재 폴더명을 매개변수로 받는다.
@@ -28,7 +28,7 @@ int main() {
 	cin.tie(0);
 
 	string cur = "album"; // 루트 폴더
-	dic[cur] = { "album", "album", {}, {}}; // 루트 폴더의 부모는 자기 자신
+	dic[cur] = { "album", "album", {}, {} }; // 루트 폴더의 부모는 자기 자신
 	int q; cin >> q;
 	while (q--) {
 		string order, arg; cin >> order >> arg; // 명령어, 쿼리
@@ -66,55 +66,55 @@ int main() {
 				albums.clear();
 			}
 			else { // 특정 폴더 삭제
-				if (albums.find(cur + arg) != albums.end()) { // 있는지 체크
+				if (albums.find(cur + arg) != albums.end()) { // 해당 폴더명이 있는지 체크
 					string tar = cur + arg;
 					dfs(tar);
 					albums.erase(tar);
 					del_album++;
 				}
 			}
-			cout << del_album << " " << del_photo << "\n";
+			cout << del_album << " " << del_photo << "\n"; // 삭제한 폴더 및 사진 파일 개수 출력
 		}
-		else if (order == "insert") {
+		else if (order == "insert") { // 사진을 현재 폴더에 추가한다.
 			set<string>& photos = dic[cur].photos;
-			if (photos.find(cur + arg) == photos.end()) photos.insert(cur + arg);
-			else cout << "duplicated photo name\n";
+			if (photos.find(cur + arg) == photos.end()) photos.insert(cur + arg); // 중복 여부 체크
+			else cout << "duplicated photo name\n"; // 중복 시 출력
 		}
-		else if (order == "delete") {
-			del_photo = 0;
+		else if (order == "delete") { // 현재 폴더에서 특정 사진을 삭제한다.
+			del_photo = 0; // 삭제한 개수 초깃값
 			set<string>& photos = dic[cur].photos;
-			if (arg == "-1") {
+			if (arg == "-1") { // 사전순 가장 앞쪽 사진 삭제
 				if (!photos.empty()) {
 					photos.erase(photos.begin());
 					del_photo++;
 				}
 			}
-			else if (arg == "1") {
+			else if (arg == "1") { // 사전순 가장 뒤쪽 사진 삭제
 				if (!photos.empty()) {
 					photos.erase(--photos.end());
 					del_photo++;
 				}
 			}
-			else if (arg == "0") {
+			else if (arg == "0") { // 존재하는 모든 사진 삭제
 				del_photo = photos.size();
 				photos.clear();
 			}
-			else {
-				if (photos.find(cur + arg) != photos.end()) {
+			else { // 특정 이름의 사진 삭제
+				if (photos.find(cur + arg) != photos.end()) { // 존재하는지 여부 체크
 					photos.erase(cur + arg);
 					del_photo++;
 				}
 			}
-			cout << del_photo << "\n";
+			cout << del_photo << "\n"; // 삭제한 개수 출력
 		}
-		else {
-			if (arg == "..") cur = dic[cur].par;
-			else if (arg == "/") cur = "album";
-			else {
+		else { // 폴더 이동
+			if (arg == "..") cur = dic[cur].par; // 상위 폴더로 이동
+			else if (arg == "/") cur = "album"; // 루트 폴더로 이동
+			else { // 현재 폴더에 존재하는 특정 폴더로 이동
 				set<string>& albums = dic[cur].albums;
 				if (albums.find(cur + arg) != albums.end()) cur = cur + arg;
 			}
-			cout << dic[cur].cur << "\n";
+			cout << dic[cur].cur << "\n"; // 이동 작업 후 현재 폴더의 이름 출력
 		}
 	}
 }
