@@ -5,8 +5,8 @@
 using namespace std;
 
 unordered_map<ll, int> dic;
-ll sum[200001] = { 0, };
-ll n, k, ans = 0;
+ll total = 0, ans = 0;
+int n, k;
 
 int main() {
 	ios::sync_with_stdio(0);
@@ -15,12 +15,10 @@ int main() {
 	cin >> n >> k;
 	for (int i = 1; i <= n; i++) {
 		ll a; cin >> a;
-		sum[i] = sum[i - 1] + a;
-	}
-	for (int i = 1; i <= n; i++) {
-		if (sum[i] == k) ans++;
-		ans += dic[sum[i] - k];
-		dic[sum[i]]++;
+		total = total + a;
+		if (total == k) ans++;
+		ans += dic[total - k];
+		dic[total]++;
 	}
 	cout << ans;
 }
