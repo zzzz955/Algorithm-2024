@@ -1,7 +1,6 @@
 #include<iostream>
 #include<cstring>
 #include<cmath>
-#include<algorithm>
 
 using namespace std;
 
@@ -9,10 +8,7 @@ const int LOG = 31;
 int n, ans;
 
 struct Trie {
-    Trie* child[2];
-    Trie() {
-        memset(child, 0, sizeof(child));
-    }
+    Trie* child[2] = { 0, };
 };
 
 void Insert(Trie* node, const string& str) {
@@ -57,6 +53,7 @@ string getBit(int n) {
 int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
+    cout.tie(0);
 
     Trie* root = new Trie();
     int first;
