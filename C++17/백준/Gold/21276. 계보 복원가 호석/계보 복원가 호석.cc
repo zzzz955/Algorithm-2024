@@ -5,16 +5,14 @@
 #include<set>
 using namespace std;
 
-int n, m, ans;
+int n, m, sum;
 map<string, vector<string>> dic;
 map<string, int> cnt;
 map<string, set<string>> result;
+queue<string> q;
+set<string> sizo;
 
-int main() {
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-	cout.tie(0);
-
+void input() {
 	cin >> n;
 	for (int i = 0; i < n; i++) {
 		string s; cin >> s;
@@ -24,18 +22,17 @@ int main() {
 	}
 
 	cin >> m;
-	for (int i = 0; i < n; i++) {
+	for (int i = 0; i < m; i++) {
 		string a, b; cin >> a >> b;
 		dic[b].push_back(a);
 	}
+}
 
+void solution() {
 	for (const auto& d : dic) {
 		for (const string& s : d.second) cnt[s]++;
 	}
 
-	queue<string> q;
-	set<string> sizo;
-	int sum = 0;
 	for (const auto& c : cnt) {
 		if (!c.second) {
 			sum++;
@@ -43,10 +40,6 @@ int main() {
 			q.push({ c.first });
 		}
 	}
-
-	cout << sum << "\n";
-	for (const string& s : sizo) cout << s << " ";
-	cout << "\n";
 
 	while (!q.empty()) {
 		string cur = q.front(); q.pop();
@@ -57,6 +50,12 @@ int main() {
 			}
 		}
 	}
+}
+
+void output() {
+	cout << sum << "\n";
+	for (const string& s : sizo) cout << s << " ";
+	cout << "\n";
 
 	for (const auto r : result) {
 		cout << r.first;
@@ -64,4 +63,14 @@ int main() {
 		for (const string& s : r.second) cout << " " << s;
 		cout << "\n";
 	}
+}
+
+int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	cout.tie(0);
+
+	input();
+	solution();
+	output();
 }
