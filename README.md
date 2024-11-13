@@ -80,6 +80,7 @@
 | Gold II | 17136 | 색종이 붙이기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/17136.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%B6%99%EC%9D%B4%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold II | 19236 | 청소년 상어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/19236.%E2%80%85%EC%B2%AD%EC%86%8C%EB%85%84%E2%80%85%EC%83%81%EC%96%B4/README.md) | <small>`백트래킹` `구현` `시뮬레이션` </small> |
 | Gold II | 21276 | 계보 복원가 호석  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21276.%E2%80%85%EA%B3%84%EB%B3%B4%E2%80%85%EB%B3%B5%EC%9B%90%EA%B0%80%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`방향 비순환 그래프` `자료 구조` `그래프 이론` `해시를 사용한 집합과 맵` `+2`</small> |
+| Gold II | 21609 | 상어 중학교  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21609.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%EC%A4%91%ED%95%99%EA%B5%90/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold II | 21944 | 문제 추천 시스템 Version 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852/README.md) | <small>`자료 구조` `트리를 사용한 집합과 맵` </small> |
 | Gold III | 1005 | ACM Craft  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 1238 | 파티  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
