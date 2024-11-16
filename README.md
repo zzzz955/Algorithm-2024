@@ -265,6 +265,7 @@
 | Silver IV | 17252 | 삼삼한 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/17252.%E2%80%85%EC%82%BC%EC%82%BC%ED%95%9C%E2%80%85%EC%88%98/README.md) | <small>`사칙연산` `수학` </small> |
 | Silver IV | 24465 | 데뷔의 꿈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/24465.%E2%80%85%EB%8D%B0%EB%B7%94%EC%9D%98%E2%80%85%EA%BF%88/README.md) | <small>`구현` `정렬` </small> |
 | Silver IV | 25192 | 인사성 밝은 곰곰이  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `트리를 사용한 집합과 맵` </small> |
+| Silver IV | 26043 | 식당 메뉴  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/26043.%E2%80%85%EC%8B%9D%EB%8B%B9%E2%80%85%EB%A9%94%EB%89%B4/README.md) | <small>`자료 구조` `큐` `정렬` </small> |
 | Silver IV | 26596 | 황금 칵테일  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/26596.%E2%80%85%ED%99%A9%EA%B8%88%E2%80%85%EC%B9%B5%ED%85%8C%EC%9D%BC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `트리를 사용한 집합과 맵` </small> |
 | Silver V | 1094 | 막대기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/1094.%E2%80%85%EB%A7%89%EB%8C%80%EA%B8%B0/README.md) | <small>`비트마스킹` `수학` </small> |
 | Silver V | 2635 | 수 이어가기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/2635.%E2%80%85%EC%88%98%E2%80%85%EC%9D%B4%EC%96%B4%EA%B0%80%EA%B8%B0/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
