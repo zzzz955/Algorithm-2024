@@ -131,6 +131,7 @@
 | Gold IV | 1753 | 최단경로  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1806 | 부분합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/README.md) | <small>`누적 합` `두 포인터` </small> |
 | Gold IV | 1922 | 네트워크 연결  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1922.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EC%97%B0%EA%B2%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
+| Gold IV | 1967 | 트리의 지름  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1967.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold IV | 1976 | 여행 가자  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1976.%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EA%B0%80%EC%9E%90/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 1987 | 알파벳  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1987.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/README.md) | <small>`백트래킹` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 2015 | 수들의 합 4  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2015.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%854/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `누적 합` `트리를 사용한 집합과 맵` </small> |
