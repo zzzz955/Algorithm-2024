@@ -178,6 +178,7 @@
 | Gold V | 2166 | 다각형의 면적  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2166.%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%E2%80%85%EB%A9%B4%EC%A0%81/README.md) | <small>`기하학` `다각형의 넓이` </small> |
 | Gold V | 2170 | 선 긋기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2170.%E2%80%85%EC%84%A0%E2%80%85%EA%B8%8B%EA%B8%B0/README.md) | <small>`정렬` `스위핑` </small> |
 | Gold V | 2467 | 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2467.%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `두 포인터` </small> |
+| Gold V | 2470 | 두 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2470.%E2%80%85%EB%91%90%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
 | Gold V | 2493 | 탑  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2493.%E2%80%85%ED%83%91/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold V | 2589 | 보물섬  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2589.%E2%80%85%EB%B3%B4%EB%AC%BC%EC%84%AC/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 2668 | 숫자고르기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2668.%E2%80%85%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
