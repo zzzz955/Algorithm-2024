@@ -124,6 +124,7 @@
 | Gold IV | 1261 | 알고스팟  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold IV | 1261 | 알고스팟  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold IV | 1327 | 소트 게임  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1327.%E2%80%85%EC%86%8C%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+2`</small> |
+| Gold IV | 1339 | 단어 수학  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1339.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%88%98%ED%95%99/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold IV | 1477 | 휴게소 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1477.%E2%80%85%ED%9C%B4%EA%B2%8C%EC%86%8C%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1647 | 도시 분할 계획  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1647.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EB%B6%84%ED%95%A0%E2%80%85%EA%B3%84%ED%9A%8D/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
