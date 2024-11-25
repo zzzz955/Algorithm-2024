@@ -27,10 +27,7 @@ int main() {
 	getline(cin, s);
 	stringstream ss(s);
 	queue<string> q;
-	while (getline(ss, s, ' ')) q.push(s);
-
-	while (!q.empty()) {
-		string s = q.front(); q.pop();		
+	while (getline(ss, s, ' ')) {
 		if (dic[s].empty()) {
 			cout << "Impossible";
 			return 0;
@@ -46,6 +43,7 @@ int main() {
 			return 0;
 		}
 	}
+
 	int flag = 1;
 	for (const auto& d : dic) if (!d.second.empty()) flag = 0;
 	if (flag) cout << "Possible";
