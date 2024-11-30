@@ -353,6 +353,7 @@
 | Bronze II | 11944 | NN  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/11944.%E2%80%85NN/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 21180 | Reconstruct Sum  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/21180.%E2%80%85Reconstruct%E2%80%85Sum/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
 | Bronze II | 21180 | Reconstruct Sum  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/21180.%E2%80%85Reconstruct%E2%80%85Sum/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
+| Bronze III | 1547 | 공  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1547.%E2%80%85%EA%B3%B5/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Bronze III | 2010 | 플러그  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2010.%E2%80%85%ED%94%8C%EB%9F%AC%EA%B7%B8/README.md) | <small>`사칙연산` `수학` </small> |
 | Bronze III | 2445 | 별 찍기 | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/2445.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%858/README.md) | <small>`구현` </small> |
 | Bronze III | 2460 | 지능형 기차 2  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2460.%E2%80%85%EC%A7%80%EB%8A%A5%ED%98%95%E2%80%85%EA%B8%B0%EC%B0%A8%E2%80%852/README.md) | <small>`사칙연산` `구현` `수학` </small> |
