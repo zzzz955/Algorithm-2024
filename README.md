@@ -174,6 +174,7 @@
 | Gold IV | 21924 | 도시 건설  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 23793 | 두 단계 최단 경로 1  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/23793.%E2%80%85%EB%91%90%E2%80%85%EB%8B%A8%EA%B3%84%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%851/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold V | 1068 | 트리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
+| Gold V | 1092 | 배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 1240 | 노드사이의 거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1240.%E2%80%85%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold V | 1593 | 문자 해독  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1593.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%ED%95%B4%EB%8F%85/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Gold V | 1717 | 집합의 표현  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
