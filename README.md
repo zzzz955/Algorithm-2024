@@ -315,6 +315,7 @@
 | Bronze II | 1712 | 손익분기점  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1712.%E2%80%85%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90/README.md) | <small>`수학` `사칙연산` </small> |
 | Bronze II | 1871 | 좋은 자동차 번호판  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/1871.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%E2%80%85%EB%B2%88%ED%98%B8%ED%8C%90/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 2153 | 소수 단어  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/2153.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EB%8B%A8%EC%96%B4/README.md) | <small>`수학` `정수론` `소수 판정` `문자열` </small> |
+| Bronze II | 2399 | 거리의 합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2399.%E2%80%85%EA%B1%B0%EB%A6%AC%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`브루트포스 알고리즘` `구현` `수학` </small> |
 | Bronze II | 2484 | 주사위 네개  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2484.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EB%84%A4%EA%B0%9C/README.md) | <small>`많은 조건 분기` `구현` `수학` </small> |
 | Bronze II | 2495 | 연속구간  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2495.%E2%80%85%EC%97%B0%EC%86%8D%EA%B5%AC%EA%B0%84/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 2511 | 카드놀이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2511.%E2%80%85%EC%B9%B4%EB%93%9C%EB%86%80%EC%9D%B4/README.md) | <small>`구현` </small> |
