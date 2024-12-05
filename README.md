@@ -154,6 +154,7 @@
 | Gold IV | 5052 | 전화번호 목록  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5052.%E2%80%85%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D/README.md) | <small>`자료 구조` `정렬` `문자열` `트리` `트라이` </small> |
 | Gold IV | 6497 | 전력난  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6497.%E2%80%85%EC%A0%84%EB%A0%A5%EB%82%9C/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 7662 | 이중 우선순위 큐  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/7662.%E2%80%85%EC%9D%B4%EC%A4%91%E2%80%85%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%E2%80%85%ED%81%90/README.md) | <small>`자료 구조` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
+| Gold IV | 9019 | DSLR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9019.%E2%80%85DSLR/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 9663 | N-Queen  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
 | Gold IV | 9935 | 문자열 폭발  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/9935.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%ED%8F%AD%EB%B0%9C/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
 | Gold IV | 11404 | 플로이드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11404.%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
