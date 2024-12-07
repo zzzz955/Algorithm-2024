@@ -131,6 +131,7 @@
 | Gold IV | 1504 | 특정한 최단 경로  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1647 | 도시 분할 계획  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1647.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EB%B6%84%ED%95%A0%E2%80%85%EA%B3%84%ED%9A%8D/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 1707 | 이분 그래프  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1707.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/README.md) | <small>`너비 우선 탐색` `이분 그래프` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold IV | 1744 | 수 묶기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1744.%E2%80%85%EC%88%98%E2%80%85%EB%AC%B6%EA%B8%B0/README.md) | <small>`많은 조건 분기` `그리디 알고리즘` `정렬` </small> |
 | Gold IV | 1753 | 최단경로  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/1753.%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1806 | 부분합  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/README.md) | <small>`누적 합` `두 포인터` </small> |
 | Gold IV | 1922 | 네트워크 연결  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1922.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EC%97%B0%EA%B2%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
