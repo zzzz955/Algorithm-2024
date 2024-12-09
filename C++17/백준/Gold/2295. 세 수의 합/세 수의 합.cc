@@ -1,12 +1,12 @@
 #include<iostream>
 #include<algorithm>
 #include<vector>
-#include<map>
+#include<unordered_map>
 using namespace std;
 
 int n;
 vector<int> U;
-map<int, int> dic;
+unordered_map<int, int> dic;
 
 int main() {
 	ios::sync_with_stdio(0);
