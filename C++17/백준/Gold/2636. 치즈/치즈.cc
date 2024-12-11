@@ -32,14 +32,9 @@ void bfs() {
 		for (int i = 0; i < 4; ++i) {
 			int nx = cx + dx[i], ny = cy + dy[i];
 			if (0 <= nx && nx < n && 0 <= ny && ny < m && !v[nx][ny]) {
-				if (!lst[nx][ny]) {
-					v[nx][ny] = 1;
-					h.push({ nx, ny });
-				}
-				else {
-					v[nx][ny] = 2;
-					c.push({ nx, ny });
-				}
+				v[nx][ny] = 1;
+				if (!lst[nx][ny]) h.push({ nx, ny });
+				else c.push({ nx, ny });
 			}
 		}
 	}
@@ -58,6 +53,7 @@ int main() {
 			if (lst[i][j]) remain++;
 		}
 	}
+
 	h.push({ 0, 0 });
 	while (remain) {
 		ans++;
