@@ -17,9 +17,8 @@ unordered_map<string, bool> dic;
 int bfs() {
 	queue<Cur> q;
 	q.push({ s, 0 });
-	unordered_map<string, int> v;
-	for (const auto& items : dic) v[items.first] = 2e9;
-	v[s] = 0;
+	unordered_map<string, bool> v;
+	v[s] = true;
 
 	while (!q.empty()) {
 		Cur cur = q.front(); q.pop();
@@ -31,9 +30,8 @@ int bfs() {
 			for (char j = '0'; j <= '9'; ++j) {
 				string nstr = str;
 				nstr[i] = j;
-				if (!dic[nstr]) continue;
-				if (v[nstr] <= cc) continue;
-				v[nstr] = cc + 1;
+				if (!dic[nstr] || v[nstr]) continue;
+				v[nstr] = true;
 				q.push({ nstr, cc + 1 });
 			}
 		}
