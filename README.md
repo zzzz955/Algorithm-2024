@@ -375,6 +375,7 @@
 | Bronze III | 2857 | FBI  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2857.%E2%80%85FBI/README.md) | <small>`문자열` `구현` </small> |
 | Bronze III | 2921 | 도미노  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2921.%E2%80%85%EB%8F%84%EB%AF%B8%EB%85%B8/README.md) | <small>`수학` </small> |
 | Bronze III | 2953 | 나는 요리사다  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2953.%E2%80%85%EB%82%98%EB%8A%94%E2%80%85%EC%9A%94%EB%A6%AC%EC%82%AC%EB%8B%A4/README.md) | <small>`사칙연산` `구현` `수학` </small> |
+| Bronze III | 2965 | 캥거루 세마리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2965.%E2%80%85%EC%BA%A5%EA%B1%B0%EB%A3%A8%E2%80%85%EC%84%B8%EB%A7%88%EB%A6%AC/README.md) | <small>`수학` </small> |
 | Bronze III | 2985 | 세 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2985.%E2%80%85%EC%84%B8%E2%80%85%EC%88%98/README.md) | <small>`사칙연산` `많은 조건 분기` `구현` `수학` </small> |
 | Bronze III | 2991 | 사나운 개  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2991.%E2%80%85%EC%82%AC%EB%82%98%EC%9A%B4%E2%80%85%EA%B0%9C/README.md) | <small>`사칙연산` `수학` </small> |
 | Bronze III | 3034 | 앵그리 창영  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3034.%E2%80%85%EC%95%B5%EA%B7%B8%EB%A6%AC%E2%80%85%EC%B0%BD%EC%98%81/README.md) | <small>`기하학` `수학` `피타고라스 정리` </small> |
