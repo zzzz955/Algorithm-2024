@@ -91,6 +91,7 @@
 | Gold III | 1701 | Cubeditor  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1701.%E2%80%85Cubeditor/README.md) | <small>`KMP` `문자열` </small> |
 | Gold III | 1719 | 택배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1719.%E2%80%85%ED%83%9D%EB%B0%B0/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold III | 1774 | 우주신과의 교감  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1774.%E2%80%85%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%E2%80%85%EA%B5%90%EA%B0%90/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
+| Gold III | 2146 | 다리 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2146.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 2206 | 벽 부수고 이동하기  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 2252 | 줄 세우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2252.%E2%80%85%EC%A4%84%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 2473 | 세 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
