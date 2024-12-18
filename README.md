@@ -338,6 +338,7 @@
 | Bronze II | 2902 | KMP는 왜 KMP일까?  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2902.%E2%80%85KMP%EB%8A%94%E2%80%85%EC%99%9C%E2%80%85KMP%EC%9D%BC%EA%B9%8C%EF%BC%9F/README.md) | <small>`구현` `문자열` </small> |
 | Bronze II | 2948 | 2009년  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2948.%E2%80%852009%EB%85%84/README.md) | <small>`구현` </small> |
 | Bronze II | 2954 | 창영이의 일기장  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/2954.%E2%80%85%EC%B0%BD%EC%98%81%EC%9D%B4%EC%9D%98%E2%80%85%EC%9D%BC%EA%B8%B0%EC%9E%A5/README.md) | <small>`구현` `문자열` </small> |
+| Bronze II | 3028 | 창영마을  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3028.%E2%80%85%EC%B0%BD%EC%98%81%EB%A7%88%EC%9D%84/README.md) | <small>`구현` `시뮬레이션` `문자열` </small> |
 | Bronze II | 3040 | 백설 공주와 일곱 난쟁이  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Bronze/3040.%E2%80%85%EB%B0%B1%EC%84%A4%E2%80%85%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Bronze II | 3040 | 백설 공주와 일곱 난쟁이  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3040.%E2%80%85%EB%B0%B1%EC%84%A4%E2%80%85%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EC%9D%BC%EA%B3%B1%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Bronze II | 3062 | 수 뒤집기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Bronze/3062.%E2%80%85%EC%88%98%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md) | <small>`사칙연산` `구현` `수학` `문자열` </small> |
