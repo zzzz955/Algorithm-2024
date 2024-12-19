@@ -98,6 +98,7 @@
 | Gold III | 2473 | 세 용액  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
 | Gold III | 2533 | 사회망 서비스(SNS)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2533.%E2%80%85%EC%82%AC%ED%9A%8C%EB%A7%9D%E2%80%85%EC%84%9C%EB%B9%84%EC%8A%A4%EF%BC%88SNS%EF%BC%89/README.md) | <small>`다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` </small> |
 | Gold III | 2623 | 음악프로그램  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2623.%E2%80%85%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
+| Gold III | 2638 | 치즈  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2638.%E2%80%85%EC%B9%98%EC%A6%88/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
 | Gold III | 2812 | 크게 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2812.%E2%80%85%ED%81%AC%EA%B2%8C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`자료 구조` `그리디 알고리즘` `스택` </small> |
 | Gold III | 4179 | 불!  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/4179.%E2%80%85%EB%B6%88%EF%BC%81/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 4386 | 별자리 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/4386.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
