@@ -3,8 +3,7 @@
 #define ll long long
 using namespace std;
 
-int t, n, m, A, B;
-ll sumA[1000], sumB[1000], ans;
+int t, n, m, A, B, sumA[1000], sumB[1000];
 unordered_map<int, ll> dicA, dicB;
 
 int main() {
@@ -33,6 +32,7 @@ int main() {
 		for (int j = 0; j < i; ++j) dicB[sumB[i] - sumB[j]]++;
 	}
 
+	ll ans = 0;
 	for (const auto& d : dicA) {
 		int key = t - d.first;
 		if (dicB[key]) ans += dicB[key] * d.second;
