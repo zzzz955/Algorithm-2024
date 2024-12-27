@@ -260,6 +260,7 @@
 | Silver I | 17615 | 볼 모으기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/17615.%E2%80%85%EB%B3%BC%E2%80%85%EB%AA%A8%EC%9C%BC%EA%B8%B0/README.md) | <small>`그리디 알고리즘` </small> |
 | Silver I | 20922 | 겹치는 건 싫어  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/20922.%E2%80%85%EA%B2%B9%EC%B9%98%EB%8A%94%E2%80%85%EA%B1%B4%E2%80%85%EC%8B%AB%EC%96%B4/README.md) | <small>`두 포인터` </small> |
 | Silver I | 28107 | 회전초밥  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/28107.%E2%80%85%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5/README.md) | <small>`자료 구조` `우선순위 큐` `큐` </small> |
+| Silver I | 30406 | 산타 춘배의 선물 나눠주기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/30406.%E2%80%85%EC%82%B0%ED%83%80%E2%80%85%EC%B6%98%EB%B0%B0%EC%9D%98%E2%80%85%EC%84%A0%EB%AC%BC%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/README.md) | <small>`그리디 알고리즘` </small> |
 | Silver I | 30892 | 상어 키우기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Silver/30892.%E2%80%85%EC%83%81%EC%96%B4%E2%80%85%ED%82%A4%EC%9A%B0%EA%B8%B0/README.md) | <small>`자료 구조` `그리디 알고리즘` `스택` </small> |
 | Silver II | 1012 | 유기농 배추  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 1406 | 에디터  | [&nbsp;🔗&nbsp;](Python/%EB%B0%B1%EC%A4%80/Silver/1406.%E2%80%85%EC%97%90%EB%94%94%ED%84%B0/README.md) | <small>`자료 구조` `연결 리스트` `스택` </small> |
