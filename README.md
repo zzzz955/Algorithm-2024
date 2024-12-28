@@ -53,6 +53,7 @@
 | Gold I | 2536 | 버스 갈아타기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2536.%E2%80%85%EB%B2%84%EC%8A%A4%E2%80%85%EA%B0%88%EC%95%84%ED%83%80%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `기하학` `그래프 이론` `그래프 탐색` `선분 교차 판정` </small> |
 | Gold I | 3665 | 최종 순위  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/3665.%E2%80%85%EC%B5%9C%EC%A2%85%E2%80%85%EC%88%9C%EC%9C%84/README.md) | <small>`방향 비순환 그래프` `그래프 이론` `위상 정렬` </small> |
 | Gold I | 5676 | 음주 코딩  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/5676.%E2%80%85%EC%9D%8C%EC%A3%BC%E2%80%85%EC%BD%94%EB%94%A9/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
+| Gold I | 6213 | Balanced Lineup  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/6213.%E2%80%85Balanced%E2%80%85Lineup/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Gold I | 10868 | 최솟값  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/10868.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92/README.md) | <small>`세그먼트 트리` `희소 배열` `자료 구조` </small> |
 | Gold I | 11505 | 구간 곱 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/11505.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EA%B3%B1%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 12100 | 2048 (Easy)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12100.%E2%80%852048%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
