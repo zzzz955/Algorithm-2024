@@ -454,6 +454,7 @@
 
 | 난이도 | 번호 | 이름 | link | 분류 |
 |:---:|:---:|:---:|:---:|:---:|
+| D6 | 1795 | 인수의 생일 파티  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D6/1795.%E2%80%85%EC%9D%B8%EC%88%98%EC%9D%98%E2%80%85%EC%83%9D%EC%9D%BC%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) | <small></small> |
 | D4 | 1210 | [S/W 문제해결 기본] 2일차 - Ladder1  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/1210.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%852%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85Ladder1/README.md) | <small></small> |
 | D4 | 1251 | [S/W 문제해결 응용] 4일차 - 하나로  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/1251.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EC%9D%91%EC%9A%A9%EF%BC%BD%E2%80%854%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%ED%95%98%EB%82%98%EB%A1%9C/README.md) | <small></small> |
 | D4 | 1494 | 사랑의 카운슬러  | [&nbsp;🔗&nbsp;](C%2B%2B/SWEA/D4/1494.%E2%80%85%EC%82%AC%EB%9E%91%EC%9D%98%E2%80%85%EC%B9%B4%EC%9A%B4%EC%8A%AC%EB%9F%AC/README.md) | <small></small> |
