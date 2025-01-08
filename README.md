@@ -190,6 +190,7 @@
 | Gold IV | 14502 | 연구소  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold IV | 14923 | 미로 탈출  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14923.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 14938 | 서강그라운드  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14938.%E2%80%85%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/README.md) | <small>`데이크스트라` `플로이드–워셜` `그래프 이론` `최단 경로` </small> |
+| Gold IV | 16197 | 두 동전  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16197.%E2%80%85%EB%91%90%E2%80%85%EB%8F%99%EC%A0%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 16234 | 인구 이동  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold IV | 16398 | 행성 연결  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/16398.%E2%80%85%ED%96%89%EC%84%B1%E2%80%85%EC%97%B0%EA%B2%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold IV | 17141 | 연구소 2  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17141.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C%E2%80%852/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` </small> |
