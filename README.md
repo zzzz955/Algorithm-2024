@@ -211,6 +211,7 @@
 | Gold V | 1092 | 배  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold V | 1240 | 노드사이의 거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1240.%E2%80%85%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` </small> |
 | Gold V | 1263 | 시간 관리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1263.%E2%80%85%EC%8B%9C%EA%B0%84%E2%80%85%EA%B4%80%EB%A6%AC/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
+| Gold V | 1351 | 무한 수열  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1351.%E2%80%85%EB%AC%B4%ED%95%9C%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`자료 구조` `다이나믹 프로그래밍` `해시를 사용한 집합과 맵` </small> |
 | Gold V | 1593 | 문자 해독  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1593.%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%ED%95%B4%EB%8F%85/README.md) | <small>`슬라이딩 윈도우` `문자열` </small> |
 | Gold V | 1717 | 집합의 표현  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
 | Gold V | 1759 | 암호 만들기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1759.%E2%80%85%EC%95%94%ED%98%B8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `조합론` `수학` </small> |
