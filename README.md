@@ -30,6 +30,7 @@
 | Platinum IV | 16975 | 수열과 쿼리 21  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16975.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8521/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 16978 | 수열과 쿼리 22  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16978.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8522/README.md) | <small>`자료 구조` `오프라인 쿼리` `세그먼트 트리` </small> |
 | Platinum IV | 17408 | 수열과 쿼리 24  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/17408.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8524/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
+| Platinum IV | 18135 | 겨울나기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/18135.%E2%80%85%EA%B2%A8%EC%9A%B8%EB%82%98%EA%B8%B0/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum V | 1306 | 달려라 홍준  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1306.%E2%80%85%EB%8B%AC%EB%A0%A4%EB%9D%BC%E2%80%85%ED%99%8D%EC%A4%80/README.md) | <small>`자료 구조` `세그먼트 트리` `슬라이딩 윈도우` </small> |
 | Platinum V | 1725 | 히스토그램  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1725.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `스택` </small> |
 | Platinum V | 1761 | 정점들의 거리  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/1761.%E2%80%85%EC%A0%95%EC%A0%90%EB%93%A4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) | <small>`최소 공통 조상` `트리` </small> |
