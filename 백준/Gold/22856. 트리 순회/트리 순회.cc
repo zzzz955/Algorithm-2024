@@ -10,7 +10,6 @@ bool v[100001];
 int par[100001];
 int n, en, ans;
 vector<Child> nodes(100001);
-vector<int> lst[100001];
 
 void find_end(int node) {
 	if (node == -1) return;
@@ -47,8 +46,6 @@ int main() {
 		nodes[a] = { b, c };
 		par[b] = a;
 		par[c] = a;
-		lst[a].push_back(b);
-		lst[a].push_back(c);
 	}
 	par[1] = 1;
 	find_end(1);
