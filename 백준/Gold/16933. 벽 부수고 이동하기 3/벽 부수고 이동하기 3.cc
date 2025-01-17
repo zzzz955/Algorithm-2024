@@ -5,9 +5,10 @@ using namespace std;
 
 int n, m, k;
 string lst[1000];
+bool v[1000][1000][11];
 struct Pos {
 	int x, y, t, k, w;
-	bool operator < (const Pos& other) const {
+	bool operator<(const Pos& other) const {
 		return t > other.t;
 	}
 };
@@ -30,7 +31,6 @@ void print(int cx, int cy, int ct, int ck, int cw) {
 int bfs() {
 	priority_queue<Pos> q;
 	q.push({ 0, 0, 1, 0, 0 });
-	vector<vector<vector<int>>> v(n, vector<vector<int>>(m, vector<int>(k + 1, 2e9)));
 	v[0][0][0] = 1;
 
 	while (!q.empty()) {
@@ -42,29 +42,16 @@ int bfs() {
 		for (int i = 0; i < 4; ++i) {
 			int nx = cx + dx[i], ny = cy + dy[i], nt = ct + 1, nk = ck + 1, nw = cw ^ 1;
 			if (0 <= nx && nx < n && 0 <= ny && ny < m) {
-				if (!cw) {
-					if (lst[nx][ny] == '1') {
-						if (nk > k || v[nx][ny][nk] <= nt) continue;
-						v[nx][ny][nk] = nt;
-						q.push({ nx, ny, nt, nk, nw });
-					}
-					else {
-						if (v[nx][ny][ck] <= nt) continue;
-						v[nx][ny][ck] = nt;
-						q.push({ nx, ny, nt, ck, nw });
-					}
+				if (lst[nx][ny] == '0') {
+					if (v[nx][ny][ck]) continue;
+					v[nx][ny][ck] = 1;
+					q.push({ nx, ny, nt, ck, nw });
 				}
 				else {
-					if (lst[nx][ny] == '1') {
-						if (nk > k || v[nx][ny][nk] <= ++nt) continue;
-						v[nx][ny][nk] = nt;
-						q.push({ nx, ny, nt, nk, cw });
-					}
-					else {
-						if (v[nx][ny][ck] <= nt) continue;
-						v[nx][ny][ck] = nt;
-						q.push({ nx, ny, nt, ck, nw });
-					}
+					if (nk > k || v[nx][ny][nk]) continue;
+					v[nx][ny][nk] = 1;
+					if (!cw) q.push({ nx, ny, nt, nk, nw });
+					else q.push({ nx, ny, nt + 1, nk, cw });
 				}
 			}
 		}
