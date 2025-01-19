@@ -8,6 +8,9 @@ int n, d;
 ll lst[100000];
 
 int main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
 	cin >> n >> d;
 	for (int i = 0; i < n; ++i) cin >> lst[i];
 
