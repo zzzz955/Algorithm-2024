@@ -68,6 +68,7 @@
 | Gold I | 11689 | GCD(n, k) = 1  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11689.%E2%80%85GCD%EF%BC%88n%EF%BC%8C%E2%80%85k%EF%BC%89%E2%80%85%EF%BC%9D%E2%80%851/README.md) | <small>`오일러 피 함수` `수학` `정수론` </small> |
 | Gold I | 12100 | 2048 (Easy)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12100.%E2%80%852048%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Gold I | 12837 | 가계부 (Hard)  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/12837.%E2%80%85%EA%B0%80%EA%B3%84%EB%B6%80%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
+| Gold I | 13459 | 구슬 탈출  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13459.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 13460 | 구슬 탈출 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/13460.%E2%80%85%EA%B5%AC%EC%8A%AC%E2%80%85%ED%83%88%EC%B6%9C%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold I | 14428 | 수열과 쿼리 16  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14428.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8516/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 14438 | 수열과 쿼리 17  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/14438.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8517/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
