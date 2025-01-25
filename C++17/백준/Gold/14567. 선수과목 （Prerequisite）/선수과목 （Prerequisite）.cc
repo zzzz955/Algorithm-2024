@@ -35,7 +35,7 @@ int main() {
 		for (int i : lst[cur]) {
 			if (!--cnt[i]) {
 				q.push(i);
-				result[i] = max(result[i], result[cur]);
+				if (result[i] < result[cur]) result[i] = result[cur];
 			}
 		}
 	}
