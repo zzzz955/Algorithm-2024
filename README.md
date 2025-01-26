@@ -26,6 +26,7 @@
 | Platinum IV | 3653 | 영화 수집  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/3653.%E2%80%85%EC%98%81%ED%99%94%E2%80%85%EC%88%98%EC%A7%91/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 5670 | 휴대폰 자판  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/5670.%E2%80%85%ED%9C%B4%EB%8C%80%ED%8F%B0%E2%80%85%EC%9E%90%ED%8C%90/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
 | Platinum IV | 10999 | 구간 합 구하기 2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/10999.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`세그먼트 트리` `느리게 갱신되는 세그먼트 트리` `자료 구조` </small> |
+| Platinum IV | 12899 | 데이터 구조  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/12899.%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0%E2%80%85%EA%B5%AC%EC%A1%B0/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum IV | 14245 | XOR  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/14245.%E2%80%85XOR/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 15967 | 에바쿰  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/15967.%E2%80%85%EC%97%90%EB%B0%94%EC%BF%B0/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum IV | 16975 | 수열과 쿼리 21  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Platinum/16975.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8521/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
