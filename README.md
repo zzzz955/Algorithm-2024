@@ -64,6 +64,7 @@
 | Gold I | 1194 | 달이 차오른다, 가자.  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1194.%E2%80%85%EB%8B%AC%EC%9D%B4%E2%80%85%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4%EF%BC%8C%E2%80%85%EA%B0%80%EC%9E%90%EF%BC%8E/README.md) | <small>`너비 우선 탐색` `비트마스킹` `그래프 이론` `그래프 탐색` </small> |
 | Gold I | 1275 | 커피숍2  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1275.%E2%80%85%EC%BB%A4%ED%94%BC%EC%88%8D2/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 1300 | K번째 수  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1300.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
+| Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 1700 | 멀티탭 스케줄링  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1700.%E2%80%85%EB%A9%80%ED%8B%B0%ED%83%AD%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small>`그리디 알고리즘` </small> |
 | Gold I | 2042 | 구간 합 구하기  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
 | Gold I | 2268 | 수들의 합 7  | [&nbsp;🔗&nbsp;](C%2B%2B17/%EB%B0%B1%EC%A4%80/Gold/2268.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%857/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
