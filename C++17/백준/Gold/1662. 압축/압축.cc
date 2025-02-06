@@ -4,7 +4,6 @@ using namespace std;
 
 string s, Cstack;
 vector<int> Nstack(1, 0);
-int len;
 
 int main() {
 	ios::sync_with_stdio(0);
@@ -29,7 +28,5 @@ int main() {
 			else Nstack.back()++;
 		}
 	}
-	int sum = 0;
-	for (int i : Nstack) sum += i;
-	cout << sum;
+	cout << Nstack[0];
 }
