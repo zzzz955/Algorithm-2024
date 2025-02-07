@@ -11,11 +11,15 @@ void bt(int level) {
 		ans = max(ans, cnt);
 		return;
 	}
-	if (s[level] <= 0) bt(level + 1);
+	if (s[level] <= 0) {
+		bt(level + 1);
+		return;
+	}
 
 	bool flag = 0;
 	for (int i = 0; i < n; ++i) {
-		if (i == level || s[i] <= 0 || s[level] <= 0) continue;
+		if (i == level) continue;
+		if (s[i] <= 0) continue;
 		flag = 1;
 
 		s[level] -= w[i];
